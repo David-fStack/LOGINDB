@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="28.169mm" height="30.482mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2816.9 3048.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="/" horiz-adv-x="277" d="M0 -12.0006l207.999 739.998 70.8358 0 -207.999 -739.998 -70.8358 0z"/>
+   <glyph unicode="&lt;" horiz-adv-x="584" d="M55.9972 312.998l0 82.0013 472.001 199.999 0 -87.9988 -373.999 -153.497 373.999 -155.5 0 -87.9988 -472.001 202.995z"/>
+   <glyph unicode="&gt;" horiz-adv-x="584" d="M527.999 312.998l-472.001 -202.995 0 87.9988 373.001 155.5 -373.001 153.497 0 87.9988 472.001 -199.999 0 -82.0013z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#373435;stroke-width:200;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:#373435}
+    .fnt0 {font-weight:normal;font-size:1772.41px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1976249514144">
+   <polygon class="fil0 str0" points="1402.97,300.16 1972.38,608.24 2541.79,916.31 2541.79,1532.46 2541.79,2148.61 1972.38,2456.69 1402.97,2764.76 833.56,2456.69 264.15,2148.61 264.15,1532.46 264.15,916.31 833.56,608.24 "/>
+   <g transform="matrix(0.728059 0 0 1 -555.343 642.893)">
+    <text x="1408.45" y="1524.1"  class="fil1 fnt0">&lt;/&gt;</text>
+   </g>
+  </g>
+ </g>
+</svg>

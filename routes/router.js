@@ -1,10 +1,9 @@
 const express = require('express');
 const router = express.Router();
+const authController = require('../controller/authController')
 
-const conexion = require('../database/db')
-
+//ROUTER PARA LAS VISTAS
 router.get('/', (req, res) => {
-    conexion()
     res.render('index')
 })
 
@@ -15,6 +14,11 @@ router.get('/login', (req, res) => {
 router.get('/register', (req, res) => {
     res.render('register')
 })
+
+
+//Router para los metodos del controller
+router.post('/register', authController.register)
+
 
 
 module.exports = router
